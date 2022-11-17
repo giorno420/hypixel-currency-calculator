@@ -1,2 +1,4 @@
 # hypixel-currency-calculator
-shows the conversion rate from USD to Hypixel Skyblock coins
+idk what im doing anymore
+
+may turn this into a website for convenience
